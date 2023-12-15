@@ -31,7 +31,7 @@ This project is a clone of the Netflix homepage and login page, featuring respon
 - Click on the "Sign in" button to go to the login page (login.html).
 - Explore the FAQ section to find answers to common questions.
 
-# Technologies Used
+## Technologies Used
 - HTML5
 - CSS3
 - Bootstrap
